@@ -1,0 +1,501 @@
+branch_id,branch_name,branch_code,city,state,region,zip_code,branch_type,opened_date,manager_name,employee_count,daily_transaction_limit,status
+1,New York City Branch #1,BR0001,New York City,New York,Northeast,29969,Sub,2013-11-07,Joshua Contreras,26,150000,Active
+2,Tucson Branch #2,BR0002,Tucson,Arizona,West,36386,Sub,2005-07-12,Michael Robinson,28,50000,Active
+3,Chicago Branch #3,BR0003,Chicago,Illinois,South,30101,Sub,2013-10-22,Brianna Phillips,29,100000,Active
+4,Augusta Branch #4,BR0004,Augusta,Georgia,South,03223,Sub,2022-02-25,Mr. Justin Murillo,40,100000,Active
+5,Naperville Branch #5,BR0005,Naperville,Illinois,Northeast,25698,Sub,2013-04-01,Lauren Burton,12,100000,Active
+6,Aurora Branch #6,BR0006,Aurora,Colorado,South,51239,Digital-Only,2019-12-09,Vicki Lara,23,500000,Active
+7,Atlanta Branch #7,BR0007,Atlanta,Georgia,South,35045,Sub,2013-08-17,Timothy Young,39,500000,Active
+8,Austin Branch #8,BR0008,Austin,Texas,Northeast,71328,Sub,2012-02-22,Brandy Heath,13,50000,Active
+9,Savannah Branch #9,BR0009,Savannah,Georgia,Northeast,92570,Sub,2009-12-09,Betty Pollard,44,150000,Active
+10,Miami Branch #10,BR0010,Miami,Florida,South,67013,Sub,2019-03-03,Ashley Mckenzie,43,500000,Active
+11,Aurora Branch #11,BR0011,Aurora,Colorado,South,30362,Sub,2019-05-28,Maria Spencer,18,50000,Active
+12,Boston Branch #12,BR0012,Boston,Massachusetts,Midwest,29856,Sub,2014-04-22,Amy Montgomery,27,100000,Active
+13,Worcester Branch #13,BR0013,Worcester,Massachusetts,South,65661,Sub,2016-10-27,Zachary Johnson,18,50000,Active
+14,San Diego Branch #14,BR0014,San Diego,California,Midwest,59282,Sub,2016-03-07,Gregory Dillon,16,100000,Active
+15,Cambridge Branch #15,BR0015,Cambridge,Massachusetts,Midwest,19883,Sub,2006-04-11,Troy Hill,33,100000,Active
+16,Sacramento Branch #16,BR0016,Sacramento,California,Northeast,33532,Sub,2023-12-13,Michelle Henry,40,500000,Active
+17,Los Angeles Branch #17,BR0017,Los Angeles,California,Midwest,92804,Sub,2020-04-15,James Stanley,6,100000,Active
+18,Augusta Branch #18,BR0018,Augusta,Georgia,West,41110,Sub,2015-10-08,Erin Hudson,37,50000,Active
+19,Worcester Branch #19,BR0019,Worcester,Massachusetts,Northeast,67079,Sub,2023-12-05,Joshua Maldonado,22,250000,Active
+20,Naperville Branch #20,BR0020,Naperville,Illinois,West,41717,Sub,2022-04-04,Amy Webster,13,250000,Active
+21,Boston Branch #21,BR0021,Boston,Massachusetts,West,77498,Sub,2007-05-25,Lisa Moreno,41,500000,Active
+22,Savannah Branch #22,BR0022,Savannah,Georgia,Midwest,96233,Main,2008-03-23,William Ayala,33,500000,Active
+23,Jacksonville Branch #23,BR0023,Jacksonville,Florida,West,24007,Sub,2021-09-19,Timothy Chandler,45,100000,Active
+24,Houston Branch #24,BR0024,Houston,Texas,West,43989,Sub,2006-10-13,Laura Rush,44,150000,Active
+25,Augusta Branch #25,BR0025,Augusta,Georgia,South,51284,Sub,2021-02-05,John Boone,28,50000,Active
+26,Tacoma Branch #26,BR0026,Tacoma,Washington,South,24485,Sub,2006-12-02,Michael Koch,13,100000,Active
+27,Sacramento Branch #27,BR0027,Sacramento,California,Northeast,65995,Sub,2006-10-25,Curtis Bell,32,150000,Active
+28,Austin Branch #28,BR0028,Austin,Texas,South,85334,Main,2017-08-30,Paul Warren,20,50000,Active
+29,Cambridge Branch #29,BR0029,Cambridge,Massachusetts,West,03174,Sub,2022-08-03,Justin Fleming,35,100000,Active
+30,Worcester Branch #30,BR0030,Worcester,Massachusetts,Midwest,13017,Sub,2008-05-15,Kendra Smith,42,500000,Active
+31,Tucson Branch #31,BR0031,Tucson,Arizona,South,50931,Main,2011-02-16,Laura Brooks,13,50000,Active
+32,San Francisco Branch #32,BR0032,San Francisco,California,West,09595,Sub,2024-02-12,Marc White,42,150000,Active
+33,Houston Branch #33,BR0033,Houston,Texas,West,29123,Sub,2024-07-08,Michael Moore,15,100000,Active
+34,Aurora Branch #34,BR0034,Aurora,Colorado,South,49543,Digital-Only,2016-06-24,Michelle Hobbs,41,150000,Active
+35,Dallas Branch #35,BR0035,Dallas,Texas,Northeast,23765,Sub,2015-02-24,Jill Howell,28,50000,Active
+36,Phoenix Branch #36,BR0036,Phoenix,Arizona,Northeast,70963,Sub,2022-10-07,Barbara Villa,11,150000,Active
+37,Augusta Branch #37,BR0037,Augusta,Georgia,South,38699,Sub,2007-02-27,Leslie Jackson,43,50000,Active
+38,Phoenix Branch #38,BR0038,Phoenix,Arizona,Midwest,13571,Sub,2014-12-15,Yolanda Mora,42,150000,Active
+39,Spokane Branch #39,BR0039,Spokane,Washington,Northeast,60095,Digital-Only,2023-07-29,Jasmine West,43,500000,Active
+40,Worcester Branch #40,BR0040,Worcester,Massachusetts,South,15755,Digital-Only,2018-05-17,David Thomas,18,150000,Closed
+41,Los Angeles Branch #41,BR0041,Los Angeles,California,West,64826,Sub,2008-10-07,Ian Rangel,11,100000,Active
+42,Savannah Branch #42,BR0042,Savannah,Georgia,West,63471,Sub,2021-03-21,Michelle Combs,39,100000,Active
+43,Tampa Branch #43,BR0043,Tampa,Florida,Northeast,13448,Sub,2021-12-15,Matthew Buck,23,150000,Active
+44,Seattle Branch #44,BR0044,Seattle,Washington,West,74294,Sub,2016-07-03,Jennifer Payne,25,250000,Active
+45,Denver Branch #45,BR0045,Denver,Colorado,South,26837,Sub,2010-08-27,Phillip Carter,25,250000,Active
+46,San Francisco Branch #46,BR0046,San Francisco,California,Midwest,82596,Sub,2013-07-12,Bradley Johnson,33,500000,Active
+47,Worcester Branch #47,BR0047,Worcester,Massachusetts,West,14174,Sub,2011-06-07,Mr. Jonathan Hartman,23,500000,Active
+48,Tacoma Branch #48,BR0048,Tacoma,Washington,West,38144,Sub,2020-06-02,Kelsey Williams,25,150000,Active
+49,Albany Branch #49,BR0049,Albany,New York,West,12190,Sub,2011-02-22,Stephanie Daniels,28,500000,Active
+50,Aurora Branch #50,BR0050,Aurora,Colorado,Midwest,84509,Sub,2011-04-11,Alfred Rasmussen,11,150000,Active
+51,Tacoma Branch #51,BR0051,Tacoma,Washington,West,50950,Sub,2008-10-07,Amy Bryan,9,250000,Active
+52,Spokane Branch #52,BR0052,Spokane,Washington,Northeast,57360,Sub,2019-10-10,Cassandra Wood,23,100000,Active
+53,San Francisco Branch #53,BR0053,San Francisco,California,West,92144,Sub,2005-11-23,Jim Lopez,5,250000,Active
+54,Buffalo Branch #54,BR0054,Buffalo,New York,Northeast,29542,Digital-Only,2019-04-02,Dalton Clark,37,150000,Active
+55,New York City Branch #55,BR0055,New York City,New York,South,84442,Sub,2017-04-06,James Mccullough,6,250000,Active
+56,Phoenix Branch #56,BR0056,Phoenix,Arizona,West,15748,Sub,2023-06-28,David Cervantes,6,500000,Active
+57,Spokane Branch #57,BR0057,Spokane,Washington,West,43853,Main,2024-09-09,Dr. Jacqueline Monroe,23,50000,Active
+58,Naperville Branch #58,BR0058,Naperville,Illinois,South,06367,Sub,2008-02-14,Lisa Scott,16,150000,Active
+59,Spokane Branch #59,BR0059,Spokane,Washington,West,55923,Sub,2018-08-11,Stephanie Collins,14,150000,Active
+60,Aurora Branch #60,BR0060,Aurora,Colorado,West,86135,Sub,2019-09-26,Michael Perry,26,500000,Active
+61,Albany Branch #61,BR0061,Albany,New York,South,54717,Sub,2012-07-17,Chelsey Maxwell,23,500000,Active
+62,Tucson Branch #62,BR0062,Tucson,Arizona,West,33717,Main,2017-01-01,Jennifer Dominguez,34,50000,Active
+63,Los Angeles Branch #63,BR0063,Los Angeles,California,Midwest,59369,Sub,2007-07-31,Andrea Wilson,42,500000,Active
+64,Cambridge Branch #64,BR0064,Cambridge,Massachusetts,Northeast,21331,Sub,2023-01-17,Clifford Murphy DVM,16,500000,Active
+65,Cambridge Branch #65,BR0065,Cambridge,Massachusetts,South,34120,Main,2024-02-09,Melissa Mitchell,33,50000,Active
+66,Worcester Branch #66,BR0066,Worcester,Massachusetts,South,38045,Digital-Only,2010-09-11,Ashley Wilson,13,500000,Active
+67,Spokane Branch #67,BR0067,Spokane,Washington,South,26994,Sub,2024-01-03,Kathleen Martinez,25,150000,Active
+68,Los Angeles Branch #68,BR0068,Los Angeles,California,Midwest,05179,Main,2014-05-19,Darryl Whitaker,34,250000,Active
+69,Springfield Branch #69,BR0069,Springfield,Illinois,South,24680,Sub,2006-09-03,Andrea Graham,29,50000,Active
+70,Dallas Branch #70,BR0070,Dallas,Texas,Midwest,49115,Sub,2013-10-06,Kyle Williams,30,100000,Active
+71,Phoenix Branch #71,BR0071,Phoenix,Arizona,Midwest,66511,Sub,2020-05-03,Daniel Stewart,25,100000,Active
+72,Boulder Branch #72,BR0072,Boulder,Colorado,Midwest,75054,Sub,2005-04-14,Scott King,25,500000,Active
+73,New York City Branch #73,BR0073,New York City,New York,Midwest,23507,Main,2012-01-02,Mathew Myers,42,250000,Active
+74,San Antonio Branch #74,BR0074,San Antonio,Texas,South,20567,Sub,2023-12-09,Courtney Burton,29,50000,Active
+75,Boulder Branch #75,BR0075,Boulder,Colorado,Northeast,44526,Sub,2018-02-28,Seth Jones,7,50000,Active
+76,New York City Branch #76,BR0076,New York City,New York,South,32715,Sub,2017-01-13,Christopher Payne,32,500000,Active
+77,Aurora Branch #77,BR0077,Aurora,Colorado,Midwest,42123,Sub,2006-02-19,Jennifer Ferguson,24,150000,Active
+78,Springfield Branch #78,BR0078,Springfield,Illinois,Northeast,81580,Digital-Only,2019-05-31,Erica Johnson,41,50000,Active
+79,Tucson Branch #79,BR0079,Tucson,Arizona,South,14105,Digital-Only,2018-09-08,Aaron Brown,7,150000,Active
+80,Los Angeles Branch #80,BR0080,Los Angeles,California,Northeast,51294,Main,2020-05-17,Danny Fuller,22,50000,Active
+81,Boulder Branch #81,BR0081,Boulder,Colorado,Northeast,74378,Sub,2015-11-30,Roger Alvarez,29,250000,Active
+82,Orlando Branch #82,BR0082,Orlando,Florida,Midwest,75407,Main,2017-11-24,Luis Cole,39,250000,Active
+83,Spokane Branch #83,BR0083,Spokane,Washington,South,98551,Sub,2009-10-03,David Baird DDS,12,100000,Active
+84,San Francisco Branch #84,BR0084,San Francisco,California,Midwest,63301,Sub,2023-05-23,Joshua Ward,12,50000,Active
+85,Savannah Branch #85,BR0085,Savannah,Georgia,Midwest,19428,Sub,2010-09-27,Tonya Price,33,500000,Active
+86,Worcester Branch #86,BR0086,Worcester,Massachusetts,Northeast,34214,Sub,2022-08-22,Alex Trujillo,31,500000,Active
+87,Cambridge Branch #87,BR0087,Cambridge,Massachusetts,South,19373,Sub,2005-11-07,Shawn Christian,21,250000,Active
+88,Boulder Branch #88,BR0088,Boulder,Colorado,West,53222,Digital-Only,2007-07-03,Christine Sullivan,40,250000,Active
+89,San Antonio Branch #89,BR0089,San Antonio,Texas,West,55253,Main,2014-03-19,Tristan Ford,37,150000,Active
+90,Houston Branch #90,BR0090,Houston,Texas,South,44777,Sub,2011-07-10,Nathaniel Harris,8,500000,Active
+91,Naperville Branch #91,BR0091,Naperville,Illinois,West,28938,Digital-Only,2019-04-03,Tiffany Daniel,38,50000,Active
+92,Tucson Branch #92,BR0092,Tucson,Arizona,Northeast,81618,Sub,2012-04-08,Scott Conner,22,150000,Active
+93,Aurora Branch #93,BR0093,Aurora,Colorado,Northeast,49628,Sub,2017-11-18,Charles Rodriguez,40,150000,Active
+94,Cambridge Branch #94,BR0094,Cambridge,Massachusetts,South,85991,Sub,2014-01-18,Tina Berg,22,500000,Active
+95,Boston Branch #95,BR0095,Boston,Massachusetts,South,54518,Sub,2006-01-07,Juan Moore,21,150000,Active
+96,Springfield Branch #96,BR0096,Springfield,Illinois,Northeast,50870,Main,2023-09-29,Tony Johnson,11,500000,Active
+97,Aurora Branch #97,BR0097,Aurora,Colorado,South,27561,Sub,2012-09-20,Denise Reese,27,100000,Active
+98,Jacksonville Branch #98,BR0098,Jacksonville,Florida,South,74342,Sub,2020-05-21,Laura Owen,6,150000,Closed
+99,Buffalo Branch #99,BR0099,Buffalo,New York,Midwest,20251,Sub,2013-03-24,Sean Anderson,30,250000,Active
+100,Cambridge Branch #100,BR0100,Cambridge,Massachusetts,South,64291,Sub,2011-04-29,Lisa Moss,26,50000,Active
+101,Houston Branch #101,BR0101,Houston,Texas,South,05128,Sub,2018-07-11,Angelica Smith,34,150000,Active
+102,Phoenix Branch #102,BR0102,Phoenix,Arizona,Midwest,07415,Sub,2011-08-19,Timothy Kelly,28,250000,Active
+103,Tucson Branch #103,BR0103,Tucson,Arizona,West,97964,Sub,2008-01-06,Ryan Cox,32,250000,Active
+104,Mesa Branch #104,BR0104,Mesa,Arizona,West,41854,Main,2016-09-02,Karen Padilla,38,150000,Closed
+105,Augusta Branch #105,BR0105,Augusta,Georgia,Northeast,38477,Sub,2011-01-25,Caitlin Gilmore,21,50000,Active
+106,Boulder Branch #106,BR0106,Boulder,Colorado,Midwest,21899,Sub,2013-04-21,Lisa Moore,19,500000,Active
+107,Tucson Branch #107,BR0107,Tucson,Arizona,South,72894,Sub,2017-07-29,Diana Charles,4,50000,Active
+108,Sacramento Branch #108,BR0108,Sacramento,California,West,33189,Sub,2024-07-10,Bridget Wallace,32,150000,Active
+109,Springfield Branch #109,BR0109,Springfield,Illinois,South,99548,Main,2005-10-15,Kaitlyn Woods,43,50000,Active
+110,Aurora Branch #110,BR0110,Aurora,Colorado,South,03116,Digital-Only,2016-09-22,Heidi Alexander DDS,44,50000,Active
+111,Houston Branch #111,BR0111,Houston,Texas,South,59133,Sub,2022-11-18,Theresa Knight,45,500000,Active
+112,New York City Branch #112,BR0112,New York City,New York,South,45036,Sub,2024-10-03,Andrea Taylor,33,50000,Active
+113,Springfield Branch #113,BR0113,Springfield,Illinois,Northeast,39836,Sub,2018-07-20,Ashley Donovan,8,150000,Active
+114,Savannah Branch #114,BR0114,Savannah,Georgia,Northeast,88175,Digital-Only,2008-12-11,Ebony Mcguire,20,150000,Active
+115,San Antonio Branch #115,BR0115,San Antonio,Texas,South,11389,Sub,2012-02-05,Mrs. Lisa Garza,15,250000,Active
+116,Tucson Branch #116,BR0116,Tucson,Arizona,South,22660,Sub,2012-04-21,Jose Hendrix,10,250000,Active
+117,Houston Branch #117,BR0117,Houston,Texas,West,03573,Main,2014-10-17,Amber Allen,20,250000,Active
+118,Boston Branch #118,BR0118,Boston,Massachusetts,West,40692,Digital-Only,2010-04-07,Gail Nelson DVM,28,150000,Active
+119,Spokane Branch #119,BR0119,Spokane,Washington,West,86575,Sub,2014-03-01,Juan Anderson,35,250000,Active
+120,Austin Branch #120,BR0120,Austin,Texas,West,82312,Sub,2005-03-20,Elizabeth Gonzalez,34,50000,Active
+121,Spokane Branch #121,BR0121,Spokane,Washington,Northeast,62120,Sub,2012-08-08,Michael Terry,44,50000,Active
+122,Seattle Branch #122,BR0122,Seattle,Washington,Midwest,44493,Sub,2012-05-03,Wendy Coleman,22,100000,Active
+123,Sacramento Branch #123,BR0123,Sacramento,California,South,93205,Sub,2011-11-05,Michelle Tran,28,50000,Active
+124,Spokane Branch #124,BR0124,Spokane,Washington,West,64572,Digital-Only,2010-08-20,Jerry Powers,32,100000,Active
+125,Miami Branch #125,BR0125,Miami,Florida,South,87824,Sub,2023-04-08,Stephanie Johnson,8,500000,Active
+126,Cambridge Branch #126,BR0126,Cambridge,Massachusetts,Midwest,17347,Digital-Only,2021-02-15,Benjamin Brooks,5,50000,Active
+127,Tacoma Branch #127,BR0127,Tacoma,Washington,West,20686,Sub,2016-06-09,Brandon Jones,17,500000,Active
+128,Phoenix Branch #128,BR0128,Phoenix,Arizona,South,95280,Digital-Only,2005-04-09,Sheila Williamson,6,100000,Active
+129,Sacramento Branch #129,BR0129,Sacramento,California,West,20980,Sub,2016-08-28,Tracy Welch,45,100000,Active
+130,San Diego Branch #130,BR0130,San Diego,California,West,43872,Sub,2020-09-21,Bryan Padilla,14,500000,Active
+131,Houston Branch #131,BR0131,Houston,Texas,Midwest,26652,Sub,2023-05-13,Charlene Higgins,43,100000,Active
+132,Jacksonville Branch #132,BR0132,Jacksonville,Florida,Northeast,12505,Sub,2005-01-29,Crystal Williams,29,150000,Active
+133,Aurora Branch #133,BR0133,Aurora,Colorado,South,10909,Sub,2012-09-27,Cheryl Roth,17,50000,Active
+134,Seattle Branch #134,BR0134,Seattle,Washington,West,93331,Sub,2024-10-04,Charlotte Roberts,30,100000,Active
+135,Phoenix Branch #135,BR0135,Phoenix,Arizona,Midwest,89126,Sub,2016-11-02,Jessica Romero,41,50000,Active
+136,Boulder Branch #136,BR0136,Boulder,Colorado,South,10928,Main,2008-07-08,Charles Weaver,35,50000,Active
+137,New York City Branch #137,BR0137,New York City,New York,Northeast,25318,Sub,2019-01-01,Angela Lopez,34,100000,Active
+138,Naperville Branch #138,BR0138,Naperville,Illinois,Midwest,42628,Sub,2020-02-16,James Huff,15,500000,Active
+139,Denver Branch #139,BR0139,Denver,Colorado,Midwest,39392,Sub,2017-01-12,Donna Simmons,9,150000,Active
+140,San Francisco Branch #140,BR0140,San Francisco,California,South,45689,Main,2019-09-17,Mary Donaldson,37,50000,Active
+141,Mesa Branch #141,BR0141,Mesa,Arizona,South,33487,Sub,2010-08-18,Antonio Snyder,44,100000,Active
+142,Miami Branch #142,BR0142,Miami,Florida,South,96565,Sub,2006-03-18,Jessica Craig,34,250000,Active
+143,Los Angeles Branch #143,BR0143,Los Angeles,California,Northeast,94362,Sub,2013-12-02,Megan Flores,31,150000,Active
+144,Boston Branch #144,BR0144,Boston,Massachusetts,West,47880,Sub,2018-12-18,Tina Carroll,38,100000,Active
+145,Sacramento Branch #145,BR0145,Sacramento,California,West,95809,Main,2021-10-18,Patrick Castillo,19,250000,Active
+146,Spokane Branch #146,BR0146,Spokane,Washington,South,65997,Sub,2011-01-03,Joshua Mcgee II,24,100000,Active
+147,Seattle Branch #147,BR0147,Seattle,Washington,West,22855,Sub,2005-11-08,John Murray,30,100000,Active
+148,Miami Branch #148,BR0148,Miami,Florida,Midwest,53354,Sub,2014-04-10,Jodi Thomas,7,250000,Active
+149,Boulder Branch #149,BR0149,Boulder,Colorado,South,98877,Sub,2012-09-17,Shelley Kramer,12,250000,Active
+150,Spokane Branch #150,BR0150,Spokane,Washington,South,50499,Sub,2024-10-18,Jennifer Smith,6,500000,Active
+151,New York City Branch #151,BR0151,New York City,New York,Midwest,87240,Sub,2023-02-09,Tracy Robinson,14,150000,Active
+152,Naperville Branch #152,BR0152,Naperville,Illinois,South,02649,Sub,2012-10-29,George Smith,44,500000,Active
+153,Aurora Branch #153,BR0153,Aurora,Colorado,South,51911,Main,2008-03-02,Sarah Ramirez,37,250000,Active
+154,Jacksonville Branch #154,BR0154,Jacksonville,Florida,Midwest,25397,Sub,2014-09-25,Jessica Valentine,31,100000,Active
+155,Augusta Branch #155,BR0155,Augusta,Georgia,South,21449,Digital-Only,2014-10-01,Heather Rodriguez,41,100000,Active
+156,Sacramento Branch #156,BR0156,Sacramento,California,West,42874,Main,2019-02-14,Brenda Stone,34,500000,Active
+157,Tucson Branch #157,BR0157,Tucson,Arizona,Midwest,65280,Sub,2021-01-27,Adam Parker,10,250000,Active
+158,Houston Branch #158,BR0158,Houston,Texas,Midwest,21289,Digital-Only,2011-10-10,Luke Carr,12,150000,Active
+159,Houston Branch #159,BR0159,Houston,Texas,Midwest,79028,Sub,2007-08-04,Nathaniel Roman,14,250000,Active
+160,Denver Branch #160,BR0160,Denver,Colorado,Midwest,17295,Sub,2012-05-23,Amy West,12,250000,Active
+161,Tacoma Branch #161,BR0161,Tacoma,Washington,Midwest,55158,Sub,2009-12-03,Melissa Kent,4,50000,Active
+162,Tacoma Branch #162,BR0162,Tacoma,Washington,West,41465,Sub,2017-09-05,Karen Ramirez,21,500000,Active
+163,Miami Branch #163,BR0163,Miami,Florida,Northeast,45164,Sub,2016-07-18,Cory Martinez,7,500000,Active
+164,Seattle Branch #164,BR0164,Seattle,Washington,West,42684,Sub,2020-08-19,Susan Erickson,33,500000,Active
+165,Seattle Branch #165,BR0165,Seattle,Washington,West,80374,Sub,2009-09-28,Katherine Harrison,17,100000,Closed
+166,Miami Branch #166,BR0166,Miami,Florida,Midwest,03043,Sub,2011-04-09,Janet Hernandez,41,100000,Active
+167,Tampa Branch #167,BR0167,Tampa,Florida,Northeast,42660,Digital-Only,2006-08-17,Lance Macdonald DVM,36,250000,Active
+168,Dallas Branch #168,BR0168,Dallas,Texas,Northeast,35367,Sub,2006-05-04,Corey Carrillo,36,500000,Active
+169,Cambridge Branch #169,BR0169,Cambridge,Massachusetts,Northeast,93812,Sub,2007-11-12,Amy Wright,27,50000,Active
+170,Boston Branch #170,BR0170,Boston,Massachusetts,West,83478,Sub,2005-01-23,Marc Hoffman,15,150000,Closed
+171,Houston Branch #171,BR0171,Houston,Texas,South,36251,Sub,2024-02-19,Mr. Stephen Gonzalez,13,250000,Active
+172,Miami Branch #172,BR0172,Miami,Florida,Northeast,85152,Sub,2008-10-06,Lisa Phillips,38,100000,Active
+173,Savannah Branch #173,BR0173,Savannah,Georgia,West,08439,Sub,2019-09-17,Robert Campbell,8,50000,Active
+174,Tampa Branch #174,BR0174,Tampa,Florida,Midwest,49785,Sub,2013-06-17,Alexandra Green,45,150000,Active
+175,Mesa Branch #175,BR0175,Mesa,Arizona,Midwest,19383,Sub,2010-12-04,Mathew Fisher,40,100000,Active
+176,Chicago Branch #176,BR0176,Chicago,Illinois,Northeast,48818,Sub,2014-04-20,Brittany Garrett,27,150000,Active
+177,San Francisco Branch #177,BR0177,San Francisco,California,Northeast,73280,Sub,2008-02-21,Ernest Giles,14,500000,Active
+178,Tucson Branch #178,BR0178,Tucson,Arizona,South,60262,Digital-Only,2010-07-09,Jody Martin,13,100000,Active
+179,San Diego Branch #179,BR0179,San Diego,California,South,17348,Sub,2011-06-17,Anthony Nguyen,27,100000,Active
+180,San Diego Branch #180,BR0180,San Diego,California,Northeast,63035,Main,2012-05-18,Nathan Pierce,32,500000,Closed
+181,Tucson Branch #181,BR0181,Tucson,Arizona,West,82930,Digital-Only,2013-09-08,Christopher Austin,29,250000,Active
+182,Worcester Branch #182,BR0182,Worcester,Massachusetts,South,05027,Main,2017-11-15,Peter Williams,38,500000,Active
+183,Springfield Branch #183,BR0183,Springfield,Illinois,Northeast,67571,Digital-Only,2006-02-13,Bonnie Brown,40,100000,Active
+184,Worcester Branch #184,BR0184,Worcester,Massachusetts,West,09400,Sub,2007-10-20,Christopher Reeves,6,100000,Active
+185,Dallas Branch #185,BR0185,Dallas,Texas,West,12541,Sub,2020-02-04,Gina Gutierrez,18,250000,Active
+186,Seattle Branch #186,BR0186,Seattle,Washington,South,98916,Sub,2006-05-24,Antonio Butler,18,150000,Active
+187,San Antonio Branch #187,BR0187,San Antonio,Texas,West,52404,Digital-Only,2018-11-22,Ann Clark,29,100000,Active
+188,Aurora Branch #188,BR0188,Aurora,Colorado,West,21349,Digital-Only,2007-04-22,Debbie Allen,27,250000,Active
+189,Savannah Branch #189,BR0189,Savannah,Georgia,Midwest,85010,Sub,2018-09-03,Marvin Terry,22,150000,Active
+190,Cambridge Branch #190,BR0190,Cambridge,Massachusetts,West,63244,Sub,2005-11-06,David Hernandez,32,250000,Active
+191,Chicago Branch #191,BR0191,Chicago,Illinois,Midwest,18546,Sub,2015-01-05,Peter Santiago,30,100000,Active
+192,Denver Branch #192,BR0192,Denver,Colorado,South,03024,Sub,2015-03-17,Alexander Espinoza,34,500000,Closed
+193,San Antonio Branch #193,BR0193,San Antonio,Texas,West,54887,Main,2016-01-01,Kevin Clark,44,150000,Active
+194,Tucson Branch #194,BR0194,Tucson,Arizona,South,76881,Sub,2014-10-31,Bobby Keith,28,150000,Active
+195,San Diego Branch #195,BR0195,San Diego,California,Northeast,67236,Sub,2022-12-22,Daniel Herrera,33,100000,Active
+196,San Francisco Branch #196,BR0196,San Francisco,California,Northeast,82772,Sub,2019-11-20,Justin Dixon,44,250000,Active
+197,Springfield Branch #197,BR0197,Springfield,Illinois,South,21454,Sub,2021-09-12,Dawn Gonzalez,45,100000,Active
+198,Springfield Branch #198,BR0198,Springfield,Illinois,West,34624,Sub,2012-11-08,Jocelyn Griffin,27,500000,Active
+199,Savannah Branch #199,BR0199,Savannah,Georgia,Midwest,85882,Digital-Only,2018-06-09,Christine Rodriguez,11,150000,Active
+200,Denver Branch #200,BR0200,Denver,Colorado,Northeast,51285,Sub,2021-02-03,Shelly Gonzalez,7,100000,Active
+201,Albany Branch #201,BR0201,Albany,New York,South,75239,Main,2019-09-19,Michael Lewis,27,250000,Active
+202,Seattle Branch #202,BR0202,Seattle,Washington,Northeast,78260,Sub,2021-05-11,Anthony Sims,44,50000,Active
+203,New York City Branch #203,BR0203,New York City,New York,South,74798,Sub,2022-10-21,Claire Johnson,24,150000,Active
+204,Seattle Branch #204,BR0204,Seattle,Washington,Northeast,02121,Sub,2009-04-30,Geoffrey Porter,4,100000,Active
+205,Spokane Branch #205,BR0205,Spokane,Washington,Midwest,94865,Sub,2012-10-09,William Guzman,14,50000,Active
+206,Phoenix Branch #206,BR0206,Phoenix,Arizona,South,22161,Sub,2023-06-02,Kyle Norton,39,500000,Active
+207,Mesa Branch #207,BR0207,Mesa,Arizona,West,87929,Sub,2022-02-24,Luis Wilkerson,8,50000,Active
+208,Sacramento Branch #208,BR0208,Sacramento,California,Northeast,04590,Sub,2017-05-21,Theresa Conrad,27,100000,Active
+209,Aurora Branch #209,BR0209,Aurora,Colorado,Northeast,40274,Sub,2013-11-26,Tonya Davis,23,50000,Active
+210,Austin Branch #210,BR0210,Austin,Texas,South,48742,Digital-Only,2009-04-22,Jay Walter,13,100000,Active
+211,Orlando Branch #211,BR0211,Orlando,Florida,West,10475,Sub,2010-08-08,Elizabeth Johnson,11,50000,Active
+212,Worcester Branch #212,BR0212,Worcester,Massachusetts,West,16239,Sub,2011-01-16,Timothy Clay,6,500000,Active
+213,Boston Branch #213,BR0213,Boston,Massachusetts,Northeast,27326,Main,2007-05-29,Tiffany Mcguire,23,50000,Active
+214,Austin Branch #214,BR0214,Austin,Texas,South,62957,Sub,2008-06-29,Nathaniel Gibson,26,50000,Active
+215,Naperville Branch #215,BR0215,Naperville,Illinois,Northeast,76493,Sub,2018-11-25,Alexander Hart,36,500000,Active
+216,Denver Branch #216,BR0216,Denver,Colorado,West,08795,Sub,2019-08-19,Austin Gregory,4,500000,Active
+217,Tampa Branch #217,BR0217,Tampa,Florida,South,04419,Digital-Only,2005-09-29,John Thompson,38,50000,Closed
+218,Austin Branch #218,BR0218,Austin,Texas,Midwest,02240,Sub,2016-07-15,Arthur Hammond,41,100000,Active
+219,Austin Branch #219,BR0219,Austin,Texas,Northeast,37309,Digital-Only,2019-03-14,Christina Adams,31,100000,Active
+220,Atlanta Branch #220,BR0220,Atlanta,Georgia,Northeast,88482,Main,2010-06-10,Cynthia West,11,500000,Active
+221,Tacoma Branch #221,BR0221,Tacoma,Washington,Northeast,00756,Sub,2024-12-01,Justin Vincent,6,50000,Active
+222,San Antonio Branch #222,BR0222,San Antonio,Texas,Northeast,73762,Sub,2024-01-17,David Allison Jr.,23,250000,Active
+223,Savannah Branch #223,BR0223,Savannah,Georgia,Midwest,48215,Sub,2006-10-08,Robert Stephens,8,250000,Active
+224,Seattle Branch #224,BR0224,Seattle,Washington,West,49425,Digital-Only,2018-03-05,Juan Thomas,35,50000,Active
+225,Mesa Branch #225,BR0225,Mesa,Arizona,West,96864,Main,2017-10-15,Kevin Watson,29,250000,Active
+226,Austin Branch #226,BR0226,Austin,Texas,West,46040,Sub,2020-05-07,Michael Preston,16,150000,Active
+227,Atlanta Branch #227,BR0227,Atlanta,Georgia,South,89067,Sub,2015-11-06,Jeffrey Guzman,35,150000,Active
+228,Aurora Branch #228,BR0228,Aurora,Colorado,Northeast,18541,Sub,2011-08-29,John Molina,45,250000,Active
+229,Boulder Branch #229,BR0229,Boulder,Colorado,Midwest,89674,Sub,2008-04-15,Jonathan Heath,13,250000,Active
+230,Springfield Branch #230,BR0230,Springfield,Illinois,Midwest,82429,Sub,2007-11-26,Mark Garner,12,50000,Active
+231,Los Angeles Branch #231,BR0231,Los Angeles,California,Midwest,75696,Sub,2007-10-17,Christine Steele,15,250000,Active
+232,Seattle Branch #232,BR0232,Seattle,Washington,Northeast,11215,Sub,2021-06-21,Wanda Stephens,10,50000,Active
+233,Tucson Branch #233,BR0233,Tucson,Arizona,Midwest,68601,Sub,2007-01-29,Timothy Ortega,35,250000,Active
+234,Tucson Branch #234,BR0234,Tucson,Arizona,West,22088,Digital-Only,2019-10-18,Rachel Burns,6,250000,Active
+235,San Antonio Branch #235,BR0235,San Antonio,Texas,Midwest,43163,Sub,2019-08-22,Kimberly Foster,28,250000,Active
+236,San Francisco Branch #236,BR0236,San Francisco,California,Northeast,86601,Digital-Only,2021-05-22,Gregory Russell,14,250000,Active
+237,Naperville Branch #237,BR0237,Naperville,Illinois,Midwest,99010,Sub,2024-10-04,Mathew Moore,11,500000,Active
+238,Mesa Branch #238,BR0238,Mesa,Arizona,Midwest,91457,Sub,2022-11-27,Aaron Leon,14,500000,Active
+239,Springfield Branch #239,BR0239,Springfield,Illinois,Midwest,66628,Sub,2020-12-31,Thomas Neal MD,26,150000,Active
+240,Los Angeles Branch #240,BR0240,Los Angeles,California,South,99565,Sub,2013-02-14,Kimberly Davis,26,500000,Active
+241,Spokane Branch #241,BR0241,Spokane,Washington,West,25536,Sub,2005-06-21,Bryan Lopez,26,250000,Active
+242,Orlando Branch #242,BR0242,Orlando,Florida,South,89693,Sub,2006-06-06,Trevor Henderson,41,50000,Active
+243,Dallas Branch #243,BR0243,Dallas,Texas,West,47361,Sub,2018-03-26,Kyle Cooper,5,500000,Active
+244,Cambridge Branch #244,BR0244,Cambridge,Massachusetts,Midwest,49641,Sub,2009-03-03,Kevin Mendoza,30,150000,Active
+245,Cambridge Branch #245,BR0245,Cambridge,Massachusetts,West,81084,Digital-Only,2016-11-13,Vanessa Porter,28,500000,Active
+246,Denver Branch #246,BR0246,Denver,Colorado,Midwest,46572,Main,2005-08-15,Shannon Reyes,17,150000,Active
+247,Seattle Branch #247,BR0247,Seattle,Washington,Northeast,71151,Sub,2020-05-25,Kevin Gilmore,31,100000,Active
+248,Austin Branch #248,BR0248,Austin,Texas,Northeast,90265,Sub,2014-10-22,Andrew Freeman,23,500000,Active
+249,Miami Branch #249,BR0249,Miami,Florida,West,11881,Sub,2014-07-01,Angela Ramsey,21,50000,Active
+250,Tucson Branch #250,BR0250,Tucson,Arizona,Midwest,94297,Sub,2017-08-17,James Rogers,8,150000,Active
+251,Springfield Branch #251,BR0251,Springfield,Illinois,Northeast,79617,Sub,2024-09-06,Eric Waters,29,150000,Active
+252,Cambridge Branch #252,BR0252,Cambridge,Massachusetts,South,59640,Digital-Only,2009-05-01,Adam Anderson,44,500000,Active
+253,Boulder Branch #253,BR0253,Boulder,Colorado,South,89006,Sub,2020-08-13,Jill Shaw,33,150000,Active
+254,Mesa Branch #254,BR0254,Mesa,Arizona,Midwest,61210,Digital-Only,2010-06-30,Rebecca Nichols,44,50000,Active
+255,Spokane Branch #255,BR0255,Spokane,Washington,South,95440,Sub,2005-12-22,Melissa Henry,23,250000,Active
+256,Austin Branch #256,BR0256,Austin,Texas,Midwest,59709,Sub,2010-11-14,Dylan Rivera,22,100000,Active
+257,Denver Branch #257,BR0257,Denver,Colorado,Midwest,14876,Sub,2018-09-27,Angela Olson,13,100000,Active
+258,Springfield Branch #258,BR0258,Springfield,Illinois,Midwest,33143,Sub,2005-02-11,Renee Whitehead,31,250000,Active
+259,San Francisco Branch #259,BR0259,San Francisco,California,South,49878,Sub,2005-11-17,Gerald Vega,5,150000,Active
+260,Naperville Branch #260,BR0260,Naperville,Illinois,South,65165,Sub,2009-07-29,Michael Buck,6,250000,Active
+261,Los Angeles Branch #261,BR0261,Los Angeles,California,Northeast,13809,Sub,2008-04-16,William Jacobs,8,250000,Active
+262,San Antonio Branch #262,BR0262,San Antonio,Texas,South,03604,Sub,2013-10-06,Michael Smith,40,500000,Active
+263,Mesa Branch #263,BR0263,Mesa,Arizona,Northeast,69336,Sub,2022-12-15,Joshua Barnes,9,100000,Active
+264,Spokane Branch #264,BR0264,Spokane,Washington,Midwest,04896,Sub,2010-07-31,Jennifer Brown,19,250000,Active
+265,Austin Branch #265,BR0265,Austin,Texas,South,34943,Digital-Only,2022-07-23,Karen Hunter,32,250000,Active
+266,Denver Branch #266,BR0266,Denver,Colorado,Midwest,32381,Sub,2023-02-18,Barbara Martin,11,150000,Active
+267,Cambridge Branch #267,BR0267,Cambridge,Massachusetts,South,75267,Digital-Only,2008-09-26,Matthew Gardner,13,150000,Active
+268,Spokane Branch #268,BR0268,Spokane,Washington,West,73556,Sub,2010-04-06,Richard Lopez,42,50000,Active
+269,San Francisco Branch #269,BR0269,San Francisco,California,Northeast,54667,Sub,2007-04-27,Dale Evans,23,150000,Active
+270,Austin Branch #270,BR0270,Austin,Texas,Midwest,98364,Sub,2019-01-12,Anthony French,29,150000,Active
+271,Tampa Branch #271,BR0271,Tampa,Florida,South,15279,Digital-Only,2015-06-29,Joseph Turner,14,250000,Active
+272,Atlanta Branch #272,BR0272,Atlanta,Georgia,Northeast,18465,Digital-Only,2011-05-24,John Lewis,35,250000,Active
+273,Tacoma Branch #273,BR0273,Tacoma,Washington,Midwest,87537,Digital-Only,2014-07-01,Brett Hughes,10,100000,Active
+274,Phoenix Branch #274,BR0274,Phoenix,Arizona,Northeast,83521,Sub,2017-07-17,Andrea Estrada,39,150000,Active
+275,Los Angeles Branch #275,BR0275,Los Angeles,California,South,67330,Sub,2007-11-29,Karen Fritz,45,100000,Active
+276,Tampa Branch #276,BR0276,Tampa,Florida,Northeast,10015,Sub,2016-04-28,Paul Franco,11,100000,Active
+277,Rochester Branch #277,BR0277,Rochester,New York,Northeast,47912,Sub,2023-10-03,Jennifer Goodwin,12,150000,Active
+278,Boulder Branch #278,BR0278,Boulder,Colorado,Northeast,06125,Sub,2022-06-01,Alyssa Powers,30,150000,Active
+279,Augusta Branch #279,BR0279,Augusta,Georgia,South,49480,Main,2012-10-25,Sharon Goodman,5,500000,Active
+280,Miami Branch #280,BR0280,Miami,Florida,Midwest,17189,Sub,2014-08-03,Katrina Russell,14,50000,Active
+281,Augusta Branch #281,BR0281,Augusta,Georgia,Northeast,99516,Main,2017-09-16,Joseph Crawford,27,100000,Active
+282,Houston Branch #282,BR0282,Houston,Texas,Midwest,10338,Sub,2013-08-28,Austin Miller,33,250000,Active
+283,Orlando Branch #283,BR0283,Orlando,Florida,Northeast,19580,Sub,2020-06-17,Donald Campbell,35,250000,Active
+284,Orlando Branch #284,BR0284,Orlando,Florida,Northeast,85719,Sub,2021-02-19,Elizabeth Nichols,16,250000,Active
+285,New York City Branch #285,BR0285,New York City,New York,Northeast,43373,Digital-Only,2023-05-22,Julie Freeman,19,500000,Active
+286,Tampa Branch #286,BR0286,Tampa,Florida,Midwest,99777,Main,2022-06-04,Melissa Mclean,34,100000,Active
+287,Augusta Branch #287,BR0287,Augusta,Georgia,South,79826,Sub,2016-12-27,Breanna Rogers,31,500000,Active
+288,Houston Branch #288,BR0288,Houston,Texas,West,91127,Sub,2014-10-18,Jose Welch,19,250000,Active
+289,Aurora Branch #289,BR0289,Aurora,Colorado,West,33477,Main,2017-08-01,Shelly Wheeler,36,500000,Active
+290,Augusta Branch #290,BR0290,Augusta,Georgia,Northeast,30364,Main,2011-04-06,Susan Knight,39,50000,Active
+291,Chicago Branch #291,BR0291,Chicago,Illinois,Midwest,46181,Digital-Only,2024-06-12,George Lowe,33,100000,Active
+292,Tucson Branch #292,BR0292,Tucson,Arizona,South,37007,Sub,2010-04-12,Matthew Tate,24,50000,Closed
+293,Worcester Branch #293,BR0293,Worcester,Massachusetts,Northeast,18756,Digital-Only,2021-01-17,Cheryl Parks,22,150000,Active
+294,Naperville Branch #294,BR0294,Naperville,Illinois,Northeast,93905,Sub,2015-11-09,Robert Perkins,14,150000,Active
+295,Boston Branch #295,BR0295,Boston,Massachusetts,Midwest,23230,Main,2007-05-07,Doris Wright,13,50000,Active
+296,Sacramento Branch #296,BR0296,Sacramento,California,Northeast,78899,Sub,2020-10-19,Catherine Holland,33,250000,Active
+297,Boston Branch #297,BR0297,Boston,Massachusetts,Midwest,65637,Sub,2012-07-02,Mitchell Randolph,39,250000,Active
+298,Austin Branch #298,BR0298,Austin,Texas,West,60673,Sub,2015-10-01,Larry King,17,150000,Active
+299,Albany Branch #299,BR0299,Albany,New York,South,49857,Sub,2021-04-06,Mrs. Chelsea Villa,4,500000,Active
+300,Rochester Branch #300,BR0300,Rochester,New York,West,65388,Sub,2014-02-05,Lauren Hill DDS,35,50000,Active
+301,San Diego Branch #301,BR0301,San Diego,California,West,26609,Sub,2010-04-25,Miss Katherine Rodriguez,41,50000,Active
+302,New York City Branch #302,BR0302,New York City,New York,West,57802,Sub,2012-09-27,Christopher Ward,34,250000,Active
+303,Naperville Branch #303,BR0303,Naperville,Illinois,West,07644,Sub,2005-10-27,Brian Nichols,6,500000,Closed
+304,Tacoma Branch #304,BR0304,Tacoma,Washington,South,17202,Sub,2020-09-05,Melissa Harris,7,150000,Active
+305,Los Angeles Branch #305,BR0305,Los Angeles,California,Midwest,87047,Main,2016-05-01,George Weber,20,100000,Active
+306,Atlanta Branch #306,BR0306,Atlanta,Georgia,West,36830,Digital-Only,2010-09-07,Daniel Munoz,14,250000,Active
+307,Naperville Branch #307,BR0307,Naperville,Illinois,South,99031,Main,2010-05-03,Sara Hernandez,35,250000,Active
+308,Naperville Branch #308,BR0308,Naperville,Illinois,South,73076,Sub,2016-09-06,Carolyn Burch,10,150000,Active
+309,Worcester Branch #309,BR0309,Worcester,Massachusetts,Midwest,50737,Sub,2009-01-23,Tiffany Davis,40,500000,Active
+310,Savannah Branch #310,BR0310,Savannah,Georgia,South,97554,Sub,2017-04-14,Rhonda Martinez,31,50000,Active
+311,Spokane Branch #311,BR0311,Spokane,Washington,South,32770,Sub,2021-11-28,Joe Martin,13,250000,Active
+312,Phoenix Branch #312,BR0312,Phoenix,Arizona,Northeast,23247,Sub,2023-05-10,Aaron Lambert,9,250000,Active
+313,Albany Branch #313,BR0313,Albany,New York,South,57542,Sub,2016-08-05,Jasmine Lewis,22,500000,Active
+314,Houston Branch #314,BR0314,Houston,Texas,West,13656,Sub,2021-12-12,Jeremy Hernandez,30,50000,Active
+315,Boulder Branch #315,BR0315,Boulder,Colorado,Northeast,50894,Sub,2022-01-05,Allison Hubbard,9,500000,Active
+316,Boston Branch #316,BR0316,Boston,Massachusetts,South,27387,Sub,2022-08-21,Richard Warren MD,6,50000,Active
+317,Springfield Branch #317,BR0317,Springfield,Illinois,Midwest,65910,Sub,2015-02-25,Jeremy Harris,32,500000,Active
+318,Seattle Branch #318,BR0318,Seattle,Washington,South,19442,Sub,2019-01-26,Melissa Gray,42,150000,Active
+319,San Antonio Branch #319,BR0319,San Antonio,Texas,West,53454,Main,2009-02-22,Jared Wright,11,50000,Active
+320,Worcester Branch #320,BR0320,Worcester,Massachusetts,Midwest,38600,Digital-Only,2022-12-21,Shawn Yu,42,250000,Active
+321,Boulder Branch #321,BR0321,Boulder,Colorado,Midwest,90480,Sub,2023-09-16,Michael Chavez,9,100000,Active
+322,Miami Branch #322,BR0322,Miami,Florida,West,03368,Sub,2012-10-11,James Henry,16,50000,Active
+323,Buffalo Branch #323,BR0323,Buffalo,New York,Midwest,95420,Sub,2013-11-28,Jeffrey Bailey,38,100000,Active
+324,Boston Branch #324,BR0324,Boston,Massachusetts,Midwest,35775,Sub,2012-05-01,Karen Jackson DVM,11,100000,Active
+325,Worcester Branch #325,BR0325,Worcester,Massachusetts,Midwest,85043,Main,2015-05-06,Christina Johnson,32,500000,Active
+326,Naperville Branch #326,BR0326,Naperville,Illinois,Midwest,50497,Main,2012-04-17,Ann Moon,4,50000,Active
+327,Savannah Branch #327,BR0327,Savannah,Georgia,Midwest,12609,Sub,2017-04-23,Danielle Fox,42,500000,Closed
+328,Sacramento Branch #328,BR0328,Sacramento,California,Midwest,33943,Sub,2014-01-23,Scott Ramirez,41,500000,Active
+329,Boston Branch #329,BR0329,Boston,Massachusetts,West,24883,Sub,2009-08-01,Joseph Hall,31,500000,Active
+330,Dallas Branch #330,BR0330,Dallas,Texas,Midwest,12595,Digital-Only,2017-06-03,Rachel Wiggins,11,250000,Active
+331,Spokane Branch #331,BR0331,Spokane,Washington,Midwest,97637,Main,2008-07-09,Teresa Jacobson,22,100000,Active
+332,Boston Branch #332,BR0332,Boston,Massachusetts,South,31466,Sub,2005-05-06,Lindsey Jones,25,500000,Active
+333,Boston Branch #333,BR0333,Boston,Massachusetts,Northeast,13806,Sub,2010-05-20,Kimberly Maxwell,28,250000,Active
+334,Spokane Branch #334,BR0334,Spokane,Washington,South,73041,Sub,2020-03-21,Brittany Frederick,22,50000,Active
+335,Buffalo Branch #335,BR0335,Buffalo,New York,South,32698,Sub,2020-09-27,Christopher Nelson,35,50000,Active
+336,Worcester Branch #336,BR0336,Worcester,Massachusetts,South,03216,Sub,2015-01-08,Jennifer Jackson,7,50000,Active
+337,Springfield Branch #337,BR0337,Springfield,Illinois,South,61982,Sub,2008-02-13,Scott Flowers,36,50000,Active
+338,Spokane Branch #338,BR0338,Spokane,Washington,West,75718,Sub,2020-08-30,Jesse Mckinney,11,500000,Active
+339,Springfield Branch #339,BR0339,Springfield,Illinois,Northeast,94011,Sub,2009-12-19,Nicole Jones,39,150000,Active
+340,Mesa Branch #340,BR0340,Mesa,Arizona,West,49970,Sub,2007-09-20,Joseph Burns,32,250000,Closed
+341,Houston Branch #341,BR0341,Houston,Texas,West,99363,Sub,2012-11-25,Jennifer Warren,6,500000,Active
+342,Austin Branch #342,BR0342,Austin,Texas,Northeast,85350,Sub,2023-11-13,Larry Higgins,22,250000,Active
+343,Cambridge Branch #343,BR0343,Cambridge,Massachusetts,West,98718,Sub,2013-02-07,Timothy Jackson,27,150000,Active
+344,Austin Branch #344,BR0344,Austin,Texas,Midwest,66001,Digital-Only,2007-07-12,Benjamin Vang,4,100000,Active
+345,Worcester Branch #345,BR0345,Worcester,Massachusetts,Northeast,39618,Sub,2007-04-24,Janet Evans,9,150000,Active
+346,Savannah Branch #346,BR0346,Savannah,Georgia,South,03630,Sub,2011-04-17,Alan Graham,37,250000,Active
+347,Rochester Branch #347,BR0347,Rochester,New York,Midwest,84184,Digital-Only,2020-01-04,Kevin Blake,33,500000,Active
+348,Seattle Branch #348,BR0348,Seattle,Washington,Midwest,18830,Main,2017-12-25,David Smith,4,500000,Active
+349,Dallas Branch #349,BR0349,Dallas,Texas,Northeast,30263,Sub,2023-01-28,James Marquez,14,250000,Active
+350,San Francisco Branch #350,BR0350,San Francisco,California,West,49203,Digital-Only,2022-08-25,Jason Williams,37,150000,Active
+351,Tucson Branch #351,BR0351,Tucson,Arizona,Northeast,19576,Digital-Only,2022-12-10,Elizabeth Brown,4,150000,Active
+352,Denver Branch #352,BR0352,Denver,Colorado,Midwest,61461,Sub,2023-03-11,Shelby Miller,17,500000,Active
+353,Aurora Branch #353,BR0353,Aurora,Colorado,Midwest,39029,Sub,2012-02-05,Karen Villa,45,250000,Active
+354,Chicago Branch #354,BR0354,Chicago,Illinois,West,63344,Sub,2006-05-10,Eric Hunter,28,100000,Active
+355,Tucson Branch #355,BR0355,Tucson,Arizona,South,01950,Main,2024-11-04,Michael Nelson,39,150000,Active
+356,New York City Branch #356,BR0356,New York City,New York,West,03736,Digital-Only,2015-03-11,Jacqueline West,38,500000,Active
+357,Naperville Branch #357,BR0357,Naperville,Illinois,Midwest,44284,Digital-Only,2020-12-21,Marc Mitchell,11,50000,Active
+358,Naperville Branch #358,BR0358,Naperville,Illinois,Northeast,07174,Main,2021-01-09,Sophia Blake,45,50000,Active
+359,Aurora Branch #359,BR0359,Aurora,Colorado,West,57308,Sub,2020-04-10,Richard Chandler,19,500000,Active
+360,Mesa Branch #360,BR0360,Mesa,Arizona,South,74733,Sub,2015-02-13,Mrs. Samantha Rivera DDS,22,500000,Active
+361,Augusta Branch #361,BR0361,Augusta,Georgia,South,96373,Main,2019-06-15,Charles Herman,37,500000,Active
+362,Spokane Branch #362,BR0362,Spokane,Washington,West,12715,Main,2017-05-04,Daniel Williams,31,250000,Active
+363,Sacramento Branch #363,BR0363,Sacramento,California,South,02088,Sub,2024-01-27,Keith Butler,32,50000,Active
+364,Tucson Branch #364,BR0364,Tucson,Arizona,Midwest,20377,Digital-Only,2013-07-16,Wanda Clark,41,250000,Active
+365,Cambridge Branch #365,BR0365,Cambridge,Massachusetts,Midwest,09181,Sub,2008-04-08,Nicholas Buchanan,30,100000,Active
+366,Rochester Branch #366,BR0366,Rochester,New York,Midwest,29218,Main,2014-05-14,Dr. Katherine Miller,36,500000,Active
+367,Jacksonville Branch #367,BR0367,Jacksonville,Florida,Midwest,60742,Main,2021-03-27,Nicholas Watson,14,500000,Active
+368,San Antonio Branch #368,BR0368,San Antonio,Texas,West,61964,Main,2024-02-12,Justin Small,40,150000,Active
+369,New York City Branch #369,BR0369,New York City,New York,Northeast,97771,Sub,2011-08-13,Kelsey Contreras,27,150000,Active
+370,San Francisco Branch #370,BR0370,San Francisco,California,South,94422,Sub,2016-10-18,Renee Osborne,30,50000,Active
+371,Springfield Branch #371,BR0371,Springfield,Illinois,South,32652,Sub,2009-07-11,John Murphy,35,50000,Active
+372,Seattle Branch #372,BR0372,Seattle,Washington,West,67195,Sub,2011-01-05,Wendy Williams,40,150000,Active
+373,Spokane Branch #373,BR0373,Spokane,Washington,Midwest,78055,Sub,2011-01-04,Ashley Hernandez,42,100000,Active
+374,Mesa Branch #374,BR0374,Mesa,Arizona,Midwest,29812,Sub,2021-11-21,Tyler Marshall,32,100000,Active
+375,Seattle Branch #375,BR0375,Seattle,Washington,Midwest,20588,Sub,2023-07-10,Katie Gutierrez,29,150000,Active
+376,Cambridge Branch #376,BR0376,Cambridge,Massachusetts,Northeast,52910,Sub,2013-05-21,Brad Martin,14,50000,Active
+377,Naperville Branch #377,BR0377,Naperville,Illinois,West,63569,Sub,2023-12-21,Patricia Howe,9,100000,Closed
+378,Mesa Branch #378,BR0378,Mesa,Arizona,West,07959,Digital-Only,2013-09-18,Brittany Kennedy,37,100000,Active
+379,Phoenix Branch #379,BR0379,Phoenix,Arizona,West,04511,Sub,2011-09-05,Eric Tucker,38,100000,Closed
+380,Chicago Branch #380,BR0380,Chicago,Illinois,South,64970,Sub,2023-07-23,Daniel Jordan,41,250000,Active
+381,Mesa Branch #381,BR0381,Mesa,Arizona,Northeast,31317,Sub,2010-09-24,Carmen Moore,6,250000,Active
+382,San Diego Branch #382,BR0382,San Diego,California,Midwest,43380,Sub,2016-11-14,Ashlee Miller,5,500000,Active
+383,Chicago Branch #383,BR0383,Chicago,Illinois,West,97157,Digital-Only,2005-03-04,Katherine Davis,38,100000,Active
+384,Albany Branch #384,BR0384,Albany,New York,West,91908,Sub,2017-12-17,April Thompson MD,30,100000,Active
+385,Seattle Branch #385,BR0385,Seattle,Washington,West,48573,Sub,2018-07-30,Melissa Wade,23,250000,Active
+386,Rochester Branch #386,BR0386,Rochester,New York,Northeast,11972,Sub,2005-10-23,Erin Williams,11,50000,Active
+387,Aurora Branch #387,BR0387,Aurora,Colorado,South,76898,Sub,2006-08-25,Aaron Nielsen,36,250000,Active
+388,Chicago Branch #388,BR0388,Chicago,Illinois,Northeast,22774,Sub,2022-12-10,Katherine Adams,30,50000,Active
+389,Augusta Branch #389,BR0389,Augusta,Georgia,South,38699,Digital-Only,2017-04-23,Sandra Mitchell,5,150000,Active
+390,Aurora Branch #390,BR0390,Aurora,Colorado,West,09013,Sub,2014-04-01,Brooke Parsons,39,100000,Active
+391,Savannah Branch #391,BR0391,Savannah,Georgia,West,67988,Sub,2006-12-04,Melissa Johnson,36,100000,Active
+392,Albany Branch #392,BR0392,Albany,New York,South,44889,Sub,2018-04-20,Rhonda Howard,38,250000,Closed
+393,Tucson Branch #393,BR0393,Tucson,Arizona,West,67200,Main,2011-02-17,Robin Butler,33,500000,Active
+394,New York City Branch #394,BR0394,New York City,New York,West,31319,Digital-Only,2020-11-20,Mary Clark,34,150000,Active
+395,Savannah Branch #395,BR0395,Savannah,Georgia,South,60962,Sub,2007-12-23,Bobby Matthews,36,150000,Active
+396,Mesa Branch #396,BR0396,Mesa,Arizona,West,15930,Sub,2007-12-15,Mrs. Miranda Campbell MD,29,50000,Active
+397,Tucson Branch #397,BR0397,Tucson,Arizona,Midwest,42437,Sub,2016-08-02,Jessica Martinez,36,150000,Active
+398,Tacoma Branch #398,BR0398,Tacoma,Washington,Northeast,84952,Digital-Only,2018-05-14,Monica Turner,32,150000,Active
+399,Spokane Branch #399,BR0399,Spokane,Washington,South,93445,Sub,2009-03-13,Andrew Moore,42,150000,Active
+400,New York City Branch #400,BR0400,New York City,New York,Midwest,25599,Main,2011-11-26,Ryan Lara,4,100000,Active
+401,Worcester Branch #401,BR0401,Worcester,Massachusetts,West,51561,Sub,2008-09-24,Mr. James Fletcher MD,45,50000,Active
+402,Cambridge Branch #402,BR0402,Cambridge,Massachusetts,West,17920,Sub,2021-04-26,Michelle Barrett,28,500000,Active
+403,New York City Branch #403,BR0403,New York City,New York,West,99003,Sub,2016-05-01,Adrienne Logan,16,250000,Active
+404,San Diego Branch #404,BR0404,San Diego,California,Northeast,33347,Sub,2013-04-26,Dr. Charles Henson,43,150000,Active
+405,Orlando Branch #405,BR0405,Orlando,Florida,Midwest,31961,Digital-Only,2015-04-04,Donald Harris Jr.,6,150000,Active
+406,Denver Branch #406,BR0406,Denver,Colorado,West,05540,Sub,2020-06-02,Michelle Mcbride,44,250000,Active
+407,Naperville Branch #407,BR0407,Naperville,Illinois,Midwest,49393,Sub,2011-09-30,Raymond Costa,16,500000,Active
+408,Aurora Branch #408,BR0408,Aurora,Colorado,South,26939,Main,2009-03-22,Matthew Doyle,12,50000,Active
+409,Denver Branch #409,BR0409,Denver,Colorado,Northeast,66689,Sub,2010-06-21,Joseph Garza,5,500000,Active
+410,Tucson Branch #410,BR0410,Tucson,Arizona,West,80746,Digital-Only,2008-12-07,Monique Williams,45,50000,Active
+411,Spokane Branch #411,BR0411,Spokane,Washington,Midwest,94755,Sub,2016-10-27,Zachary Bryant,37,250000,Active
+412,Phoenix Branch #412,BR0412,Phoenix,Arizona,South,37789,Main,2011-08-27,Mark Conner,30,500000,Active
+413,Sacramento Branch #413,BR0413,Sacramento,California,South,62696,Sub,2021-08-04,John Wilkerson,40,50000,Closed
+414,Jacksonville Branch #414,BR0414,Jacksonville,Florida,West,75460,Digital-Only,2009-08-15,Kevin Cole,16,100000,Active
+415,Houston Branch #415,BR0415,Houston,Texas,West,39859,Sub,2022-10-31,Ruth Barnett,5,500000,Active
+416,Spokane Branch #416,BR0416,Spokane,Washington,South,76465,Main,2010-01-31,Joseph Williams,19,150000,Active
+417,Tacoma Branch #417,BR0417,Tacoma,Washington,South,59385,Digital-Only,2009-10-12,Anthony Jones,42,500000,Active
+418,San Antonio Branch #418,BR0418,San Antonio,Texas,West,36366,Main,2015-09-16,Teresa Smith,7,50000,Active
+419,Austin Branch #419,BR0419,Austin,Texas,West,96544,Digital-Only,2020-11-22,Elizabeth Burke,32,50000,Active
+420,Atlanta Branch #420,BR0420,Atlanta,Georgia,West,07211,Sub,2014-12-07,Kimberly Tran,39,50000,Active
+421,Savannah Branch #421,BR0421,Savannah,Georgia,West,15688,Sub,2022-02-08,Jasmine Swanson,30,100000,Active
+422,Denver Branch #422,BR0422,Denver,Colorado,Midwest,23731,Sub,2015-11-26,Michael Miller,31,500000,Active
+423,Tacoma Branch #423,BR0423,Tacoma,Washington,West,85284,Sub,2009-11-30,Brett Velazquez,25,500000,Active
+424,Houston Branch #424,BR0424,Houston,Texas,West,96316,Sub,2010-03-02,Megan Perry,16,500000,Active
+425,Tucson Branch #425,BR0425,Tucson,Arizona,Northeast,56396,Sub,2009-01-30,Brent Huynh,43,250000,Active
+426,New York City Branch #426,BR0426,New York City,New York,West,41066,Main,2024-12-16,Margaret Jones,41,250000,Active
+427,Spokane Branch #427,BR0427,Spokane,Washington,South,20891,Main,2022-06-19,April Allen,23,500000,Active
+428,Seattle Branch #428,BR0428,Seattle,Washington,South,99912,Main,2023-11-21,Ashley Hayes,36,500000,Active
+429,Savannah Branch #429,BR0429,Savannah,Georgia,South,16418,Digital-Only,2015-01-04,Kimberly Dixon,44,100000,Active
+430,Seattle Branch #430,BR0430,Seattle,Washington,Midwest,63578,Sub,2018-05-12,Bradley Mccormick,33,500000,Active
+431,Aurora Branch #431,BR0431,Aurora,Colorado,Northeast,46800,Sub,2008-07-12,Kimberly Wright,30,150000,Active
+432,Boston Branch #432,BR0432,Boston,Massachusetts,Midwest,02890,Sub,2023-03-22,Tracy Miranda,4,100000,Active
+433,Cambridge Branch #433,BR0433,Cambridge,Massachusetts,South,08815,Sub,2008-03-31,Joseph Norris,25,250000,Active
+434,New York City Branch #434,BR0434,New York City,New York,Northeast,25951,Main,2014-07-29,Lynn Johnson,26,50000,Active
+435,Albany Branch #435,BR0435,Albany,New York,Midwest,51524,Sub,2020-11-08,Robert Parsons,41,150000,Active
+436,San Francisco Branch #436,BR0436,San Francisco,California,South,53252,Sub,2009-04-01,Mark Ayala,18,150000,Active
+437,Tacoma Branch #437,BR0437,Tacoma,Washington,South,98508,Sub,2018-12-13,Natasha Davenport,5,100000,Active
+438,Houston Branch #438,BR0438,Houston,Texas,South,65299,Sub,2016-02-25,Frank Wood,11,150000,Active
+439,Springfield Branch #439,BR0439,Springfield,Illinois,South,06001,Sub,2005-09-23,Kenneth Smith,27,100000,Active
+440,Boulder Branch #440,BR0440,Boulder,Colorado,West,87608,Main,2023-09-06,Jennifer Monroe,12,100000,Active
+441,Augusta Branch #441,BR0441,Augusta,Georgia,Northeast,41810,Sub,2022-03-29,Ryan Wheeler,31,100000,Active
+442,Aurora Branch #442,BR0442,Aurora,Colorado,South,74086,Digital-Only,2020-04-28,Kara Spencer,22,100000,Active
+443,San Diego Branch #443,BR0443,San Diego,California,South,72800,Digital-Only,2019-07-09,Mario Johnson,41,250000,Active
+444,San Antonio Branch #444,BR0444,San Antonio,Texas,West,84135,Sub,2011-05-06,Rodney Carter,28,500000,Active
+445,Tucson Branch #445,BR0445,Tucson,Arizona,South,14469,Sub,2006-02-06,Victor Taylor,27,500000,Active
+446,Worcester Branch #446,BR0446,Worcester,Massachusetts,Northeast,34354,Sub,2021-04-25,Mrs. Sarah Zavala DVM,44,500000,Active
+447,Orlando Branch #447,BR0447,Orlando,Florida,South,48183,Sub,2006-07-03,Elijah Johnson,19,250000,Active
+448,Savannah Branch #448,BR0448,Savannah,Georgia,South,37876,Digital-Only,2011-07-23,Sheila Velazquez,27,150000,Active
+449,New York City Branch #449,BR0449,New York City,New York,Northeast,79525,Sub,2016-12-28,Brian Villegas,26,100000,Active
+450,Cambridge Branch #450,BR0450,Cambridge,Massachusetts,Northeast,44250,Sub,2011-05-15,Kenneth Aguilar,33,250000,Active
+451,Worcester Branch #451,BR0451,Worcester,Massachusetts,Northeast,10834,Sub,2009-08-19,Ryan Pierce,15,250000,Active
+452,Dallas Branch #452,BR0452,Dallas,Texas,West,71451,Sub,2023-04-06,Micheal Mcconnell,36,500000,Active
+453,Dallas Branch #453,BR0453,Dallas,Texas,South,91003,Main,2015-12-04,Mary Garcia,8,150000,Active
+454,Tampa Branch #454,BR0454,Tampa,Florida,South,53408,Sub,2020-01-18,Thomas Fisher,20,150000,Active
+455,Chicago Branch #455,BR0455,Chicago,Illinois,South,86732,Digital-Only,2011-09-01,Breanna Davis,38,150000,Active
+456,Springfield Branch #456,BR0456,Springfield,Illinois,Northeast,77611,Sub,2005-01-30,Amanda Pacheco,29,250000,Active
+457,Sacramento Branch #457,BR0457,Sacramento,California,South,53714,Digital-Only,2015-11-04,Kevin Hoffman,18,100000,Active
+458,Jacksonville Branch #458,BR0458,Jacksonville,Florida,South,32951,Sub,2006-08-23,Matthew Carroll,39,250000,Active
+459,Worcester Branch #459,BR0459,Worcester,Massachusetts,West,14115,Sub,2017-08-14,Daniel Erickson,16,250000,Active
+460,Atlanta Branch #460,BR0460,Atlanta,Georgia,Midwest,22700,Sub,2019-10-05,Melanie Allen,39,50000,Active
+461,Denver Branch #461,BR0461,Denver,Colorado,Northeast,53966,Digital-Only,2005-02-08,Denise Norton,4,250000,Active
+462,Spokane Branch #462,BR0462,Spokane,Washington,South,25083,Sub,2014-11-08,Jeffrey Austin,29,500000,Active
+463,Denver Branch #463,BR0463,Denver,Colorado,West,51414,Digital-Only,2008-11-07,Hailey Sullivan,13,150000,Active
+464,Aurora Branch #464,BR0464,Aurora,Colorado,Midwest,77934,Digital-Only,2013-03-26,Debra Jensen,17,250000,Active
+465,Atlanta Branch #465,BR0465,Atlanta,Georgia,Midwest,16838,Main,2019-02-20,Larry Smith,40,250000,Active
+466,Chicago Branch #466,BR0466,Chicago,Illinois,South,15523,Main,2013-02-10,David Anderson,39,100000,Active
+467,Boulder Branch #467,BR0467,Boulder,Colorado,West,24665,Sub,2021-04-16,Tracy Wright,8,250000,Active
+468,Tampa Branch #468,BR0468,Tampa,Florida,West,93702,Sub,2005-10-21,Dr. Monique Sutton MD,27,500000,Active
+469,Spokane Branch #469,BR0469,Spokane,Washington,Midwest,29092,Sub,2010-07-14,Aaron Clark,11,100000,Active
+470,Cambridge Branch #470,BR0470,Cambridge,Massachusetts,West,15020,Sub,2021-08-07,Brian Clark,17,100000,Active
+471,Springfield Branch #471,BR0471,Springfield,Illinois,Midwest,19425,Sub,2007-12-10,Barbara Wood,40,150000,Active
+472,Mesa Branch #472,BR0472,Mesa,Arizona,Midwest,54388,Sub,2012-07-29,Denise Alvarado,4,100000,Active
+473,Augusta Branch #473,BR0473,Augusta,Georgia,South,83738,Sub,2007-12-02,Cole Wade,40,250000,Active
+474,Denver Branch #474,BR0474,Denver,Colorado,West,87310,Sub,2009-11-09,Donald Williams Jr.,33,150000,Active
+475,Springfield Branch #475,BR0475,Springfield,Illinois,South,61263,Sub,2008-03-04,Sandra Goodman,15,500000,Active
+476,Worcester Branch #476,BR0476,Worcester,Massachusetts,South,69219,Sub,2010-10-13,Stanley Taylor,10,250000,Active
+477,San Francisco Branch #477,BR0477,San Francisco,California,South,37113,Sub,2008-07-17,Kara Farmer,44,500000,Active
+478,Austin Branch #478,BR0478,Austin,Texas,Midwest,09059,Sub,2016-09-24,Mathew Cole,39,50000,Closed
+479,Houston Branch #479,BR0479,Houston,Texas,Northeast,90735,Sub,2022-04-12,Tracey Nelson,14,150000,Active
+480,Sacramento Branch #480,BR0480,Sacramento,California,West,63461,Main,2009-05-31,Alicia Young,33,250000,Active
+481,Atlanta Branch #481,BR0481,Atlanta,Georgia,Midwest,64189,Main,2012-09-10,Ms. Maria Thomas,20,50000,Active
+482,Albany Branch #482,BR0482,Albany,New York,Midwest,35585,Sub,2019-06-05,Melissa Nelson,8,50000,Active
+483,Jacksonville Branch #483,BR0483,Jacksonville,Florida,South,86784,Sub,2015-05-01,Jamie Brown,21,100000,Active
+484,Los Angeles Branch #484,BR0484,Los Angeles,California,South,14541,Sub,2009-10-29,Robert Todd,38,250000,Active
+485,San Diego Branch #485,BR0485,San Diego,California,South,88115,Sub,2023-08-18,Laura Middleton,15,100000,Active
+486,Phoenix Branch #486,BR0486,Phoenix,Arizona,Midwest,24480,Sub,2017-07-21,April Benjamin,44,500000,Active
+487,San Antonio Branch #487,BR0487,San Antonio,Texas,Northeast,43410,Sub,2020-05-15,Jennifer Peterson,42,50000,Active
+488,Atlanta Branch #488,BR0488,Atlanta,Georgia,South,63549,Sub,2008-11-13,Eric Duran,19,100000,Active
+489,Atlanta Branch #489,BR0489,Atlanta,Georgia,West,33422,Sub,2018-12-03,Curtis Morales,16,50000,Active
+490,Austin Branch #490,BR0490,Austin,Texas,South,79350,Main,2016-04-21,James Weber,36,50000,Active
+491,Tacoma Branch #491,BR0491,Tacoma,Washington,South,32598,Sub,2011-07-01,Heather Blake,38,250000,Active
+492,Austin Branch #492,BR0492,Austin,Texas,South,70295,Main,2011-09-02,Tyler Smith,24,100000,Active
+493,Seattle Branch #493,BR0493,Seattle,Washington,Midwest,10497,Sub,2007-01-24,Crystal Delacruz,18,50000,Active
+494,Naperville Branch #494,BR0494,Naperville,Illinois,Northeast,27365,Main,2014-05-06,Nancy Garcia,17,250000,Active
+495,Boulder Branch #495,BR0495,Boulder,Colorado,West,72402,Sub,2013-10-29,Oscar Robinson,40,100000,Active
+496,Dallas Branch #496,BR0496,Dallas,Texas,Midwest,13196,Sub,2005-09-25,Kevin Martinez,12,150000,Active
+497,Tacoma Branch #497,BR0497,Tacoma,Washington,Midwest,37255,Main,2017-11-11,Stephanie Davis,5,500000,Active
+498,Worcester Branch #498,BR0498,Worcester,Massachusetts,South,31526,Sub,2017-03-28,David George,4,100000,Active
+499,Dallas Branch #499,BR0499,Dallas,Texas,South,98335,Sub,2017-08-01,Amanda Barker,19,500000,Active
+500,Albany Branch #500,BR0500,Albany,New York,Midwest,71420,Sub,2008-05-05,Monica Howe,13,250000,Active
