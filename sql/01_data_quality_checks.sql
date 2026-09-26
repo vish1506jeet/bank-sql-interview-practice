@@ -1,7 +1,6 @@
 -- 01. Data quality checks
--- Run against the raw loaded tables before writing any of the practice questions.
 
--- row counts, confirm nothing got lost or duplicated on import
+-- row counts to confirm nothing got lost or duplicated on import
 SELECT 'customers' AS table_name, COUNT(*) FROM customers
 UNION ALL
 SELECT 'branches', COUNT(*) FROM branches
